@@ -1,0 +1,6 @@
+﻿2016-05-31 12:00:59.059 +0100	START		Running Create_todo.script
+2016-05-31 12:00:59.059 +0100	click	image0001	at (355, 108)	3	on_create_todo	Create_todo.script
+2016-05-31 12:01:00.000 +0100	typetext		[return]	4	on_create_todo	Create_todo.script
+2016-05-31 12:01:00.000 +0100	Exception		Image Property List did not contain "ImageName" property	5	on_create_todo	Create_todo.script
+2016-05-31 12:01:00.000 +0100	EndTestCase		(Duration:"1.102", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 12:00:59 +0100", Successes:"0", TestCase:"Create_todo.script", Warnings:"0")
+2016-05-31 12:01:00.000 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:01 Create_todo.script

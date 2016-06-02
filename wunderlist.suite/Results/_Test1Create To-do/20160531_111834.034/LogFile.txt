@@ -1,0 +1,6 @@
+﻿2016-05-31 11:18:34.034 +0100	START		Running _Test1Create To-do.script
+2016-05-31 11:18:34.034 +0100	click	image0001	at (372, 102)	1	on__test1create_to_do	_Test1Create To-do.script
+2016-05-31 11:18:35.035 +0100	click	image0001/My Todo1	at (372, 102)	2	on__test1create_to_do	_Test1Create To-do.script
+2016-05-31 11:18:36.036 +0100	typetext		[backspace]To-do	3	on__test1create_to_do	_Test1Create To-do.script
+2016-05-31 11:18:36.036 +0100	EndTestCase		(Duration:"2.384", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 11:18:34 +0100", Successes:"1", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-05-31 11:18:37.037 +0100	SUCCESS		Execution Time 0:00:02 _Test1Create To-do.script

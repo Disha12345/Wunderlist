@@ -1,0 +1,4 @@
+﻿2016-05-31 11:18:56.056 +0100	START		Running _Test1Create To-do.script
+2016-05-31 11:19:02.002 +0100	Exception	image0001	No Image Found On Screen: "image0001"	1	on__test1create_to_do	_Test1Create To-do.script
+2016-05-31 11:19:03.003 +0100	EndTestCase		(Duration:"6.553", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 11:18:56 +0100", Successes:"0", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-05-31 11:19:03.003 +0100	ABORTED		Execution Time 0:00:07 _Test1Create To-do.script

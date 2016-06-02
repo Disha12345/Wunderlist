@@ -1,0 +1,24 @@
+﻿//Create list
+put "Completing todos list4" into list_name
+list.listmethod list_name
+
+Wait 3
+
+//Create todos
+put ["todo1","todo2","todo3"] into todos
+
+Repeat with each item of todos
+	Todo.create it
+End Repeat
+
+wait 2
+
+//Complete todo
+Todo.complete "todo3"
+
+//completed todos
+list.showcompleted it
+
+
+
+waitfor 8.0,"striked image"

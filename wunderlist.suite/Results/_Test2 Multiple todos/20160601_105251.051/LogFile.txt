@@ -1,0 +1,12 @@
+﻿2016-06-01 10:52:51.051 +0100	START		Running _Test2 Multiple todos.script
+2016-06-01 10:52:51.051 +0100	click	Todos/image0001	at (355, 108)	4	on_create_todo	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:52:52.052 +0100	typetext		todo1[return]	5	on_create_todo	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:52:54.054 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"todo1", TextDifference:"1", TextPlatform:"Generic OCR")	found at (352, 164)	6	on_create_todo	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:52:55.055 +0100	click	Todos/image0001	at (355, 108)	4	on_create_todo	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:52:55.055 +0100	typetext		todo2[return]	5	on_create_todo	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:52:57.057 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(353,164), ImageRectangle:(334,159,372,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"todo2", TextDifference:"1", TextPlatform:"Generic OCR")	found at (353, 164)	6	on_create_todo	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:52:58.058 +0100	click	Todos/image0001	at (355, 108)	4	on_create_todo	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:52:59.059 +0100	typetext		todo3[return]	5	on_create_todo	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:53:02.002 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"todo3", TextDifference:"1", TextPlatform:"Generic OCR")	found at (352, 164)	6	on_create_todo	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:53:02.002 +0100	EndTestCase		(Duration:"11.266", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 10:52:51 +0100", Successes:"1", TestCase:"_Test2 Multiple todos.script", Warnings:"0")
+2016-06-01 10:53:02.002 +0100	SUCCESS		Execution Time 0:00:11 _Test2 Multiple todos.script

@@ -1,0 +1,5 @@
+﻿2016-06-01 14:10:03.003 +0100	START		Running Load_Data.script
+2016-06-01 14:10:09.009 +0100	click	Lists/Createlist	at (58, 705)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:10:19.019 +0100	Exception	Lists/ListName	No Image Found On Screen: "Lists/ListName"	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:10:19.019 +0100	EndTestCase		(Duration:"16.441", Errors:"1", Exceptions:"1", StartTime:"2016-06-01 14:10:03 +0100", Successes:"0", TestCase:"Load_Data.script", Warnings:"0")
+2016-06-01 14:10:19.019 +0100	ABORTED		Execution Time 0:00:16 Load_Data.script

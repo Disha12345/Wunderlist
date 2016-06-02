@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-31 12:00:59.059 +0100,"Failure",0:00:01,1,0,1,"20160531_120059.059/LogFile.txt","","Image Not Found -- waitfor Error - Image Property List did not contain ""ImageName"" property",0
+2016-05-31 12:01:30.030 +0100,"Failure",0:00:01,1,0,1,"20160531_120130.030/LogFile.txt","","Image Not Found -- waitfor Error - Image Property List did not contain ""ImageName"" property",0

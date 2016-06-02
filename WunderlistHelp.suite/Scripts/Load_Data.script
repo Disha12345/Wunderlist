@@ -1,0 +1,19 @@
+﻿on read readfile
+	//to load file
+	put file"C:\Users\disha.biju\Desktop\Sampletest.csv" into datafile
+	
+	repeat with each line data in datafile
+		put data 
+		put the first item of data into list
+		put items 2 to -1 of data into todos
+		
+		
+		list.listmethod list
+		Repeat with each item of todos
+			Todo.create it
+		End Repeat 
+		
+	end repeat
+end read
+
+//end load

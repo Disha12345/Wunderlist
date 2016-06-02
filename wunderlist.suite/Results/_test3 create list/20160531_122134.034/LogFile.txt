@@ -1,0 +1,7 @@
+﻿2016-05-31 12:21:34.034 +0100	START		Running _test3 create list.script
+2016-05-31 12:21:57.057 +0100	click	image0001/Createlist	at (58, 705)	3	on_create_list	Create_list.script
+2016-05-31 12:21:57.057 +0100	click	image0001/ListName	at (427, 170)	4	on_create_list	Create_list.script
+2016-05-31 12:21:58.058 +0100	typetext		test	5	on_create_list	Create_list.script
+2016-05-31 12:22:04.004 +0100	Exception	image0001/Save	No Image Found On Screen: "image0001/Save"	6	on_create_list	Create_list.script
+2016-05-31 12:22:04.004 +0100	EndTestCase		(Duration:"30.457", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 12:21:34 +0100", Successes:"0", TestCase:"_test3 create list.script", Warnings:"0")
+2016-05-31 12:22:04.004 +0100	ABORTED		Execution Time 0:00:30 _test3 create list.script

@@ -1,0 +1,2 @@
+﻿put "mynewlist1" into list
+list.listmethod it

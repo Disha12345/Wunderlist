@@ -1,0 +1,9 @@
+﻿connect "i-d3fde57f"
+
+Todo.create "New Todo"
+Todo.find "New Todo"
+
+
+//disconnect "i-d3fde57f"
+
+

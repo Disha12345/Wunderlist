@@ -1,0 +1,8 @@
+﻿2016-05-31 12:30:52.052 +0100	START		Running _test3 create list.script
+2016-05-31 12:30:52.052 +0100	click	image0001/Createlist	at (58, 705)	3	on_create_list	Create_list.script
+2016-05-31 12:30:53.053 +0100	click	image0001/ListName	at (427, 170)	4	on_create_list	Create_list.script
+2016-05-31 12:30:53.053 +0100	typetext		test	5	on_create_list	Create_list.script
+2016-05-31 12:30:54.054 +0100	click	image0001/Save	at (641, 373)	6	on_create_list	Create_list.script
+2016-05-31 12:30:56.056 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(52,366), ImageRectangle:(40,361,64,371), Language:"English", Text:"test", TextPlatform:"Generic OCR")	found at (52, 366)	7	on_create_list	Create_list.script
+2016-05-31 12:30:57.057 +0100	EndTestCase		(Duration:"5.209", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 12:30:52 +0100", Successes:"1", TestCase:"_test3 create list.script", Warnings:"0")
+2016-05-31 12:30:57.057 +0100	SUCCESS		Execution Time 0:00:05 _test3 create list.script

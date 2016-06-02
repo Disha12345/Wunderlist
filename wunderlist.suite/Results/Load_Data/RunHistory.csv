@@ -1,0 +1,18 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-01 13:29:57.057 +0100,"Success",0:00:00,0,0,0,"20160601_132957.057/LogFile.txt","","",1
+2016-06-01 13:30:09.009 +0100,"Success",0:00:00,0,0,0,"20160601_133009.009/LogFile.txt","","",1
+2016-06-01 13:54:08.008 +0100,"Failure",0:00:30,1,0,0,"20160601_135408.008/LogFile.txt","","Connection Failed -- Unable to acquire VNC Lock for Server:52.39.174.19 on port:3389\n",0
+2016-06-01 14:05:48.048 +0100,"Success",0:00:00,0,0,0,"20160601_140548.048/LogFile.txt","","",1
+2016-06-01 14:06:53.053 +0100,"Running",0:00:00,0,0,0,"20160601_140653.053/LogFile.txt","","",0
+2016-06-01 14:08:16.016 +0100,"Running",0:00:00,0,0,0,"20160601_140816.016/LogFile.txt","","",0
+2016-06-01 14:10:03.003 +0100,"Running",0:00:00,0,0,0,"20160601_141003.003/LogFile.txt","","",0
+2016-06-01 14:10:27.027 +0100,"Failure",0:01:09,1,0,1,"20160601_141027.027/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""BBB"")"" within 8.00 seconds  Restricted Search Rectangle ((312,103),(983,703))\n",0
+2016-06-01 14:13:34.034 +0100,"Running",0:00:00,0,0,0,"20160601_141334.034/LogFile.txt","","",0
+2016-06-01 14:14:14.014 +0100,"Running",0:00:00,0,0,0,"20160601_141414.014/LogFile.txt","","",0
+2016-06-01 14:14:33.033 +0100,"Running",0:00:00,0,0,0,"20160601_141433.033/LogFile.txt","","",0
+2016-06-01 14:17:11.011 +0100,"Failure",0:02:46,1,0,1,"20160601_141711.011/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""AAA"")"" within 8.00 seconds",0
+2016-06-01 14:21:38.038 +0100,"Failure",0:00:39,1,0,1,"20160601_142138.038/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Little"")"" within 8.00 seconds  Restricted Search Rectangle ((312,103),(983,703))\n",0
+2016-06-01 14:23:15.015 +0100,"Failure",0:00:55,1,0,1,"20160601_142315.015/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Little"")"" within 8.00 seconds  Restricted Search Rectangle ((312,103),(983,703))\n",0
+2016-06-01 14:24:38.038 +0100,"Failure",0:00:58,1,0,1,"20160601_142438.038/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Little"")"" within 8.00 seconds  Restricted Search Rectangle ((312,103),(983,703))\n",0
+2016-06-01 14:27:15.015 +0100,"Running",0:00:00,0,0,0,"20160601_142715.015/LogFile.txt","","",0
+2016-06-01 14:29:33.033 +0100,"Success",0:02:51,0,0,0,"20160601_142933.033/LogFile.txt","","",1

@@ -1,0 +1,7 @@
+﻿2016-05-31 12:10:53.053 +0100	START		Running Create list.script
+2016-05-31 12:10:53.053 +0100	click	image0001/Createlist	at (58, 705)	3	on_create_list	Create list.script
+2016-05-31 12:10:54.054 +0100	click	image0001/ListName	at (427, 170)	4	on_create_list	Create list.script
+2016-05-31 12:10:55.055 +0100	typetext		Mylist2	5	on_create_list	Create list.script
+2016-05-31 12:10:56.056 +0100	click	image0001/Save	at (654, 372)	6	on_create_list	Create list.script
+2016-05-31 12:10:56.056 +0100	EndTestCase		(Duration:"2.894", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 12:10:53 +0100", Successes:"1", TestCase:"Create list.script", Warnings:"0")
+2016-05-31 12:10:56.056 +0100	SUCCESS		Execution Time 0:00:03 Create list.script

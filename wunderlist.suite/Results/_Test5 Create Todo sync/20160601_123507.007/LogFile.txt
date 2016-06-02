@@ -1,0 +1,8 @@
+﻿2016-06-01 12:35:07.007 +0100	START		Running _Test5 Create Todo sync.script
+2016-06-01 12:35:07.007 +0100	connect		i-d3fde57f:(null)	1	on__test5_create_todo_sync	_Test5 Create Todo sync.script
+2016-06-01 12:35:07.007 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:35:08.008 +0100	typetext		New Todo[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:35:10.010 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(366,164), ImageRectangle:(335,159,398,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"New Todo", TextDifference:"1", TextPlatform:"Generic OCR")	found at (366, 164)	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:35:10.010 +0100	disconnect		i-d3fde57f	5	on__test5_create_todo_sync	_Test5 Create Todo sync.script
+2016-06-01 12:35:10.010 +0100	EndTestCase		(Duration:"3.047", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 12:35:07 +0100", Successes:"1", TestCase:"_Test5 Create Todo sync.script", Warnings:"0")
+2016-06-01 12:35:10.010 +0100	SUCCESS		Execution Time 0:00:03 _Test5 Create Todo sync.script

@@ -1,0 +1,11 @@
+﻿2016-06-01 14:24:38.038 +0100	START		Running Load_Data.script
+2016-06-01 14:24:38.038 +0100	click	Lists/Createlist	at (58, 705)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:24:39.039 +0100	click	Lists/ListName	at (427, 169)	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:24:40.040 +0100	typetext		Twinkle	6	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:24:41.041 +0100	click	Save	at (641, 373)	7	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:24:52.052 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(365,168), ImageRectangle:(340,163,390,174), Language:"English", Text:"Twinkle", TextDifference:"1", TextPlatform:"Generic OCR")	found at (365, 168)	8	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:24:53.053 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:24:54.054 +0100	typetext		Little[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:25:35.035 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(312,103,983,703), Text:"Little", TextDifference:"1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"Little")" within 8.00 seconds	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:25:36.036 +0100	EndTestCase		(Duration:"58.563", Errors:"1", Exceptions:"1", StartTime:"2016-06-01 14:24:38 +0100", Successes:"0", TestCase:"Load_Data.script", Warnings:"0")
+2016-06-01 14:25:37.037 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "(TEXT:"Little")" within 8.00 seconds  Restricted Search Rectangle ((312,103),(983,703))\n -- Execution Time 0:00:58 Load_Data.script

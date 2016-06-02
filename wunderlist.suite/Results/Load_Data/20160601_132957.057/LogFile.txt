@@ -1,0 +1,4 @@
+﻿2016-06-01 13:29:57.057 +0100	START		Running Load_Data.script
+2016-06-01 13:29:57.057 +0100	connect		i-55fee6f9:(null)	1	on_load_data	Load_Data.script
+2016-06-01 13:29:58.058 +0100	EndTestCase		(Duration:"0.359", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 13:29:57 +0100", Successes:"1", TestCase:"Load_Data.script", Warnings:"0")
+2016-06-01 13:29:58.058 +0100	SUCCESS		Execution Time 0:00:01 Load_Data.script

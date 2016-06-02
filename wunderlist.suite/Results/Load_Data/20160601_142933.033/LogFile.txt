@@ -1,0 +1,28 @@
+﻿2016-06-01 14:29:33.033 +0100	START		Running Load_Data.script
+2016-06-01 14:29:34.034 +0100	click	Lists/Createlist	at (58, 705)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:29:35.035 +0100	click	Lists/ListName	at (427, 169)	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:29:36.036 +0100	typetext		Twinkle	6	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:29:37.037 +0100	click	Save	at (641, 373)	7	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:29:48.048 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(365,168), ImageRectangle:(340,163,390,174), Language:"English", Text:"Twinkle", TextDifference:"1", TextPlatform:"Generic OCR")	found at (365, 168)	8	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:29:48.048 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:29:49.049 +0100	typetext		Little[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:32.032 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(350,164), ImageRectangle:(334,159,367,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"Little", TextDifference:"1", TextPlatform:"Generic OCR")	found at (350, 164)	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:32.032 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:30:33.033 +0100	typetext		Star[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:31:02.002 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(347,164), ImageRectangle:(334,159,360,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"Star", TextDifference:"1", TextPlatform:"Generic OCR")	found at (347, 164)	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:31:02.002 +0100	click	Lists/Createlist	at (58, 705)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:31:05.005 +0100	click	Lists/ListName	at (427, 169)	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:31:06.006 +0100	typetext		AAA	6	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:31:07.007 +0100	click	Save	at (641, 373)	7	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:32:08.008 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(314,46), ImageRectangle:(294,39,334,53), Language:"English", Text:"AAA", TextDifference:"1", TextPlatform:"Generic OCR")	found at (314, 46)	8	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:32:08.008 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:09.009 +0100	typetext		BBB[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:13.013 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(348,164), ImageRectangle:(335,159,361,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"BBB", TextDifference:"1", TextPlatform:"Generic OCR")	found at (348, 164)	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:13.013 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:14.014 +0100	typetext		CCC[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:19.019 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(349,165), ImageRectangle:(334,159,364,171), Language:"English", SearchRectangle:(312,103,983,703), Text:"CCC", TextDifference:"1", TextPlatform:"Generic OCR")	found at (349, 165)	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:20.020 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:20.020 +0100	typetext		DDDD[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:24.024 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(356,164), ImageRectangle:(334,159,378,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"DDDD", TextDifference:"1", TextPlatform:"Generic OCR")	found at (356, 164)	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:24.024 +0100	EndTestCase		(Duration:"171.042", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 14:29:33 +0100", Successes:"1", TestCase:"Load_Data.script", Warnings:"0")
+2016-06-01 14:32:25.025 +0100	SUCCESS		Execution Time 0:02:51 Load_Data.script

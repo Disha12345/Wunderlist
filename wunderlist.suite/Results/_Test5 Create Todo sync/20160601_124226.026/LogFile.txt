@@ -1,0 +1,6 @@
+﻿2016-06-01 12:42:26.026 +0100	START		Running _Test5 Create Todo sync.script
+2016-06-01 12:42:26.026 +0100	connect		i-d3fde57f:(null)	1	on__test5_create_todo_sync	_Test5 Create Todo sync.script
+2016-06-01 12:42:27.027 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:42:28.028 +0100	typetext		New Todo[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:42:57.057 +0100	EndTestCase		(Duration:"31.597", Errors:"1", Exceptions:"0", StartTime:"2016-06-01 12:42:26 +0100", Successes:"0", TestCase:"_Test5 Create Todo sync.script", Warnings:"0")
+2016-06-01 12:42:57.057 +0100	ABORTED		Execution Time 0:00:31 _Test5 Create Todo sync.script

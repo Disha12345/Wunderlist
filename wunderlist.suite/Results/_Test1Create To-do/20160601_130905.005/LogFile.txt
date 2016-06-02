@@ -1,0 +1,6 @@
+﻿2016-06-01 13:09:05.005 +0100	START		Running _Test1Create To-do.script
+2016-06-01 13:09:06.006 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 13:09:07.007 +0100	typetext		dddd[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 13:09:09.009 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(350,164), ImageRectangle:(334,159,366,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"dddd", TextDifference:"1", TextPlatform:"Generic OCR")	found at (350, 164)	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 13:09:10.010 +0100	EndTestCase		(Duration:"4.109", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 13:09:05 +0100", Successes:"1", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-06-01 13:09:10.010 +0100	SUCCESS		Execution Time 0:00:05 _Test1Create To-do.script

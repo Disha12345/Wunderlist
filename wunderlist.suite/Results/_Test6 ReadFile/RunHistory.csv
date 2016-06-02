@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-01 14:44:07.007 +0100,"Failure",0:00:00,1,0,0,"20160601_144407.007/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'readfile'",0
+2016-06-01 14:44:22.022 +0100,"Success",0:02:37,0,0,0,"20160601_144422.022/LogFile.txt","","",1
+2016-06-01 21:01:27.027 +0100,"Running",0:00:00,0,0,0,"20160601_210127.027/LogFile.txt","","",0
+2016-06-01 21:02:00.000 +0100,"Success",0:03:02,0,0,0,"20160601_210200.000/LogFile.txt","","",1

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="_test3 create list">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>21</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2016-05-31 12:13:04 +0100</FirstRun>
+  <LastRun>2016-06-01 13:09:21 +0100</LastRun>
+  <TotalTimeOnSuccess>72.539000</TotalTimeOnSuccess>
+ </script>
+ <script name="_Debug Demo">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-05-31 15:29:46 +0100</FirstRun>
+  <LastRun>2016-05-31 15:32:06 +0100</LastRun>
+  <TotalTimeOnSuccess>4.030000</TotalTimeOnSuccess>
+ </script>
+ <script name="Try and catch">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-02 09:40:50 +0100</FirstRun>
+  <LastRun>2016-06-02 09:40:50 +0100</LastRun>
+  <TotalTimeOnSuccess>0.578000</TotalTimeOnSuccess>
+ </script>
+ <script name="_Test5 Create Todo sync">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2016-06-01 12:16:47 +0100</FirstRun>
+  <LastRun>2016-06-01 13:09:58 +0100</LastRun>
+  <TotalTimeOnSuccess>38.313000</TotalTimeOnSuccess>
+ </script>
+ <script name="_Test2 Multiple todos">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2016-05-31 12:02:22 +0100</FirstRun>
+  <LastRun>2016-06-01 13:09:10 +0100</LastRun>
+  <TotalTimeOnSuccess>103.462000</TotalTimeOnSuccess>
+ </script>
+ <script name="_Test1Create To-do">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>30</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2016-05-31 11:16:55 +0100</FirstRun>
+  <LastRun>2016-06-01 13:09:05 +0100</LastRun>
+  <TotalTimeOnSuccess>86.398000</TotalTimeOnSuccess>
+ </script>
+ <script name="_Test6 ReadFile">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-06-01 14:44:07 +0100</FirstRun>
+  <LastRun>2016-06-01 21:02:00 +0100</LastRun>
+  <TotalTimeOnSuccess>340.311000</TotalTimeOnSuccess>
+ </script>
+ <script name="_Test4 Completing Todos">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>23</NumberOfRuns>
+  <NumberOfFails>9</NumberOfFails>
+  <FirstRun>2016-05-31 13:48:40 +0100</FirstRun>
+  <LastRun>2016-06-01 13:09:26 +0100</LastRun>
+  <TotalTimeOnSuccess>365.367000</TotalTimeOnSuccess>
+ </script>
+</statistics>

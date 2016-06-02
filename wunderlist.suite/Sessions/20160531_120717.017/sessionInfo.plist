@@ -1,0 +1,23 @@
+{
+    commandList = "[{captureRect:[9, 55, 109, 74], command:@\"Click\", eventNum:2, hotSpot:[5.8789145999999995e+001, 7.0455651899999998e+002], imageName:@\"\", infoDict:{folderPath:@\"/image0001\", imageName:@\"Createlist\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_120717.017/Screen0002.png\"}, {captureRect:[339, 595, 406, 610], command:@\"Click\", eventNum:4, hotSpot:[4.2755740399999996e+002, 1.6918261699999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/image0001\", imageName:@\"ListName\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_120717.017/Screen0004.png\"}, {command:@\"TypeText\", eventNum:7, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_120717.017/Screen0007.png\", text:@\"\\\"Myli\\\"\"}, {command:@\"KeyDown\", eventNum:16, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_120717.017/Screen0010.png\", text:@\"\\\"s\\\"\"}, {command:@\"KeyUp\", eventNum:17, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_120717.017/Screen0010.png\", text:@\"\\\"s\\\"\"}, {command:@\"TypeText\", eventNum:18, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_120717.017/Screen0010.png\", text:@\"\\\"t2\\\"\"}, {captureRect:[629, 385, 660, 399], command:@\"Click\", eventNum:22, hotSpot:[6.5416284199999996e+002, 3.7175653100000000e+002], imageName:@\"\", infoDict:{folderPath:@\"/image0001\", imageName:@\"Save\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_120717.017/Screen0022.png\"}]";
+    generatedCommands = (
+	"Click \"image0001/Createlist\"",
+	"Click \"image0001/ListName\"",
+	"TypeText \"Myli\"",
+	"KeyDown \"s\"",
+	"KeyUp \"s\"",
+	"TypeText \"t2\"",
+	"Click \"image0001/Save\""
+    );
+    locallyAddedFiles = {
+	image0001 = (
+	    "Createlist.png",
+	    "Createlist.png",
+	    "ListName.png",
+	    "ListName.png",
+	    "Save.png",
+	    "Save.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

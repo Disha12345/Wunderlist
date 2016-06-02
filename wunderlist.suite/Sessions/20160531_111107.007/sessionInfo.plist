@@ -1,0 +1,24 @@
+{
+    commandList = "[{captureRect:[114, 613, 184, 643], command:@\"Click\", eventNum:2, hotSpot:[1.4964509600000000e+002, 1.3915899700000000e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0002.png\"}, {command:@\"KeyDown\", eventNum:5, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0005.png\", text:@\"\\\"M\\\"\"}, {command:@\"KeyUp\", eventNum:6, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0005.png\", text:@\"\\\"M\\\"\"}, {command:@\"KeyDown\", eventNum:8, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0008.png\", text:@\"\\\"y\\\"\"}, {command:@\"KeyUp\", eventNum:9, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0008.png\", text:@\"\\\"y\\\"\"}, {command:@\"TypeText\", eventNum:10, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0008.png\", text:@\"\\\" \\\"\"}, {command:@\"KeyDown\", eventNum:12, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0012.png\", text:@\"\\\"t\\\"\"}, {command:@\"KeyUp\", eventNum:13, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0012.png\", text:@\"\\\"t\\\"\"}, {command:@\"TypeText\", eventNum:14, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0012.png\", text:@\"Backspace,\\\"T\\\"\"}, {command:@\"KeyDown\", eventNum:20, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0020.png\", text:@\"\\\"0\\\"\"}, {command:@\"KeyUp\", eventNum:21, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0020.png\", text:@\"\\\"0\\\"\"}, {command:@\"TypeText\", eventNum:22, screenShotFile:@\"C:/Users/disha.biju/Documents/wunderlist.suite/Sessions/20160531_111107.007/Screen0020.png\", text:@\"Backspace,\\\"o-do\\\"\"}]";
+    generatedCommands = (
+	"Click \"image0001\"",
+	"KeyDown \"M\"",
+	"KeyUp \"M\"",
+	"KeyDown \"y\"",
+	"KeyUp \"y\"",
+	"TypeText \" \"",
+	"KeyDown \"t\"",
+	"KeyUp \"t\"",
+	"TypeText Backspace,\"T\"",
+	"KeyDown \"0\"",
+	"KeyUp \"0\"",
+	"TypeText Backspace,\"o-do\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "image0001.png",
+	    "image0001.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

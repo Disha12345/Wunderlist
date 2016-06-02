@@ -1,0 +1,5 @@
+﻿2016-05-31 11:24:20.020 +0100	START		Running _Test1Create To-do.script
+2016-05-31 11:24:20.020 +0100	click	image0001	at (355, 108)	1	on__test1create_to_do	_Test1Create To-do.script
+2016-05-31 11:24:59.059 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", Text:"To do", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"To do")" within 8.00 seconds	2	on__test1create_to_do	_Test1Create To-do.script
+2016-05-31 11:24:59.059 +0100	EndTestCase		(Duration:"39.359", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 11:24:20 +0100", Successes:"0", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-05-31 11:24:59.059 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "(TEXT:"To do")" within 8.00 seconds -- Execution Time 0:00:39 _Test1Create To-do.script

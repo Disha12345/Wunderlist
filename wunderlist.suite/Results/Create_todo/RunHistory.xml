@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Create_todo">
+ <run>
+  <RunDate>2016-05-31 12:00:59.059 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160531_120059.059/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-31 12:01:30.030 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160531_120130.030/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+</runHistory>

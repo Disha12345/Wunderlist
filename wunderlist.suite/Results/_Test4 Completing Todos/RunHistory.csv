@@ -1,0 +1,28 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-31 13:48:40.040 +0100,"Failure",0:00:24,1,0,0,"20160531_134840.040/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Image: To do list top left",0
+2016-05-31 13:50:06.006 +0100,"Running",0:00:00,0,0,0,"20160531_135006.006/LogFile.txt","","",0
+2016-05-31 13:51:38.038 +0100,"Running",0:00:00,0,0,0,"20160531_135138.038/LogFile.txt","","",0
+2016-05-31 13:52:44.044 +0100,"Running",0:00:00,0,0,0,"20160531_135244.044/LogFile.txt","","",0
+2016-05-31 13:55:42.042 +0100,"Success",0:00:19,0,0,0,"20160531_135542.042/LogFile.txt","","",1
+2016-05-31 14:29:00.000 +0100,"Failure",0:00:20,1,0,0,"20160531_142900.000/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'complete_todo'",0
+2016-05-31 14:30:34.034 +0100,"Success",0:00:22,0,0,0,"20160531_143034.034/LogFile.txt","","",1
+2016-05-31 14:32:01.001 +0100,"Success",0:00:19,0,0,0,"20160531_143201.001/LogFile.txt","","",1
+2016-05-31 14:36:08.008 +0100,"Success",0:00:20,0,0,0,"20160531_143608.008/LogFile.txt","","",1
+2016-05-31 14:52:57.057 +0100,"Success",0:00:30,0,0,0,"20160531_145257.057/LogFile.txt","","",1
+2016-05-31 14:54:39.039 +0100,"Success",0:00:24,0,0,0,"20160531_145439.039/LogFile.txt","","",1
+2016-05-31 14:59:51.051 +0100,"Running",0:00:00,0,0,0,"20160531_145951.051/LogFile.txt","","",0
+2016-05-31 15:00:20.020 +0100,"Success",0:00:26,0,0,0,"20160531_150020.020/LogFile.txt","","",1
+2016-06-01 09:28:09.009 +0100,"Success",0:00:30,0,0,0,"20160601_092809.009/LogFile.txt","","",1
+2016-06-01 10:43:00.000 +0100,"Failure",0:00:00,1,0,0,"20160601_104300.000/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_list'",0
+2016-06-01 10:44:40.040 +0100,"Failure",0:00:00,1,0,0,"20160601_104440.040/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_list'",0
+2016-06-01 10:46:51.051 +0100,"Failure",0:00:00,1,0,0,"20160601_104651.051/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_list'",0
+2016-06-01 10:49:20.020 +0100,"Failure",0:00:00,1,0,0,"20160601_104920.020/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_list'",0
+2016-06-01 10:53:09.009 +0100,"Failure",0:00:27,1,0,1,"20160601_105309.009/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Lists/ListName""",0
+2016-06-01 10:54:04.004 +0100,"Success",0:00:28,0,0,0,"20160601_105404.004/LogFile.txt","","",1
+2016-06-01 10:55:19.019 +0100,"Success",0:00:28,0,0,0,"20160601_105519.019/LogFile.txt","","",1
+2016-06-01 11:06:06.006 +0100,"Failure",0:00:20,1,0,0,"20160601_110606.006/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Todo'.",0
+2016-06-01 11:08:38.038 +0100,"Failure",0:00:21,1,0,0,"20160601_110838.038/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'todo_name'",0
+2016-06-01 11:17:36.036 +0100,"Success",0:00:29,0,0,0,"20160601_111736.036/LogFile.txt","","",1
+2016-06-01 11:25:31.031 +0100,"Success",0:00:24,0,0,0,"20160601_112531.031/LogFile.txt","","",1
+2016-06-01 11:39:18.018 +0100,"Success",0:00:28,0,0,0,"20160601_113918.018/LogFile.txt","","",1
+2016-06-01 13:09:26.026 +0100,"Success",0:00:30,0,0,0,"20160601_130926.026/LogFile.txt","","",1

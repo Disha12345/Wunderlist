@@ -1,0 +1,6 @@
+﻿2016-05-31 12:00:10.010 +0100	START		Running _Test2 Multiple todos.script
+2016-05-31 12:00:10.010 +0100	click	image0001	at (355, 108)	3	on_create_todo	Create_todo.script
+2016-05-31 12:00:11.011 +0100	typetext		todo1[return]	4	on_create_todo	Create_todo.script
+2016-05-31 12:00:47.047 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(312,103,983,703), Text:"todo1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"todo1")" within 8.00 seconds	5	on_create_todo	Create_todo.script
+2016-05-31 12:00:47.047 +0100	EndTestCase		(Duration:"37.107", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 12:00:10 +0100", Successes:"0", TestCase:"_Test2 Multiple todos.script", Warnings:"0")
+2016-05-31 12:00:47.047 +0100	ABORTED		Execution Time 0:00:37 _Test2 Multiple todos.script

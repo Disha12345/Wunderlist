@@ -1,0 +1,20 @@
+﻿to listmethod list_name
+	//params list
+	
+	Click  "Lists/Createlist"
+	Click  "Lists/ListName"
+	TypeText list_name
+	Click "Save"
+	waitfor 8.0,(Text:list_name,TextDifference:1)
+end listmethod
+
+
+to showcompleted shw_name
+	//completed todos
+	if imagefound ("Tickbox")
+		log "completed todos shown"
+	else
+		Click  "Todos/show complete todos"
+		waitfor 8.0,"Tickbox"
+	end if
+end showcompleted

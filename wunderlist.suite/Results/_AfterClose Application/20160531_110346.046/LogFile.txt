@@ -1,0 +1,4 @@
+﻿2016-05-31 11:03:46.046 +0100	START		Running _AfterClose Application.script
+2016-05-31 11:04:09.009 +0100	Exception	CloseButton/CloseButton.png	No Image Found On Screen: "CloseButton/CloseButton.png"	1	on__afterclose_application	_AfterClose Application.script
+2016-05-31 11:04:09.009 +0100	EndTestCase		(Duration:"22.874", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 11:03:46 +0100", Successes:"0", TestCase:"_AfterClose Application.script", Warnings:"0")
+2016-05-31 11:04:09.009 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "CloseButton/CloseButton.png" -- Execution Time 0:00:23 _AfterClose Application.script

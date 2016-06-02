@@ -1,0 +1,5 @@
+﻿2016-06-01 10:53:09.009 +0100	START		Running _Test4 Completing Todos.script
+2016-06-01 10:53:10.010 +0100	click	Lists/Createlist	at (58, 705)	3	on_create_list	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 10:53:36.036 +0100	Exception	Lists/ListName	No Image Found On Screen: "Lists/ListName"	4	on_create_list	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 10:53:37.037 +0100	EndTestCase		(Duration:"27.375", Errors:"1", Exceptions:"1", StartTime:"2016-06-01 10:53:09 +0100", Successes:"0", TestCase:"_Test4 Completing Todos.script", Warnings:"0")
+2016-06-01 10:53:37.037 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Lists/ListName" -- Execution Time 0:00:28 _Test4 Completing Todos.script

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="_AfterClose Application">
+ <run>
+  <RunDate>2016-05-31 11:02:58.058 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>30.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160531_110258.058/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;CloseButton/CloseButton.png&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-31 11:03:46.046 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160531_110346.046/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;CloseButton/CloseButton.png&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-31 11:04:57.057 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160531_110457.057/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-31 11:05:33.033 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160531_110533.033/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;CloseButton&quot;</ErrorMessage>
+ </run>
+</runHistory>

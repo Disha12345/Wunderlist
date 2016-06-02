@@ -1,0 +1,17 @@
+﻿2016-05-31 14:29:00.000 +0100	START		Running _Test4 Completing Todos.script
+2016-05-31 14:29:01.001 +0100	click	Createlist	at (58, 705)	3	on_create_list	Create_list.script
+2016-05-31 14:29:02.002 +0100	click	ListName	at (427, 170)	4	on_create_list	Create_list.script
+2016-05-31 14:29:03.003 +0100	typetext		Completing todos list1	5	on_create_list	Create_list.script
+2016-05-31 14:29:04.004 +0100	click	Save	at (641, 373)	6	on_create_list	Create_list.script
+2016-05-31 14:29:05.005 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(471,12), ImageRectangle:(398,5,544,19), Language:"English", Text:"Completing todos list1", TextDifference:"1", TextPlatform:"Generic OCR")	found at (471, 12)	7	on_create_list	Create_list.script
+2016-05-31 14:29:09.009 +0100	click	Add todo	at (355, 108)	4	on_create_todo	Create_todo.script
+2016-05-31 14:29:09.009 +0100	typetext		todo1[return]	5	on_create_todo	Create_todo.script
+2016-05-31 14:29:11.011 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"todo1", TextDifference:"1", TextPlatform:"Generic OCR")	found at (352, 164)	6	on_create_todo	Create_todo.script
+2016-05-31 14:29:11.011 +0100	click	Add todo	at (355, 108)	4	on_create_todo	Create_todo.script
+2016-05-31 14:29:12.012 +0100	typetext		todo2[return]	5	on_create_todo	Create_todo.script
+2016-05-31 14:29:14.014 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(353,164), ImageRectangle:(334,159,372,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"todo2", TextDifference:"1", TextPlatform:"Generic OCR")	found at (353, 164)	6	on_create_todo	Create_todo.script
+2016-05-31 14:29:16.016 +0100	click	Add todo	at (355, 108)	4	on_create_todo	Create_todo.script
+2016-05-31 14:29:16.016 +0100	typetext		todo3[return]	5	on_create_todo	Create_todo.script
+2016-05-31 14:29:18.018 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,103,983,703), Text:"todo3", TextDifference:"1", TextPlatform:"Generic OCR")	found at (352, 164)	6	on_create_todo	Create_todo.script
+2016-05-31 14:29:21.021 +0100	EndTestCase		(Duration:"20.303", Errors:"1", Exceptions:"0", StartTime:"2016-05-31 14:29:00 +0100", Successes:"0", TestCase:"_Test4 Completing Todos.script", Warnings:"0")
+2016-05-31 14:29:21.021 +0100	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'complete_todo' -- Execution Time 0:00:21 _Test4 Completing Todos.script

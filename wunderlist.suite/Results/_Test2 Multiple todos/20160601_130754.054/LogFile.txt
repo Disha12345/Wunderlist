@@ -1,0 +1,5 @@
+﻿2016-06-01 13:07:54.054 +0100	START		Running _Test2 Multiple todos.script
+2016-06-01 13:07:55.055 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 13:07:56.056 +0100	typetext		todo1[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 13:08:06.006 +0100	EndTestCase		(Duration:"12.078", Errors:"1", Exceptions:"0", StartTime:"2016-06-01 13:07:54 +0100", Successes:"0", TestCase:"_Test2 Multiple todos.script", Warnings:"0")
+2016-06-01 13:08:06.006 +0100	ABORTED		Execution Time 0:00:12 _Test2 Multiple todos.script

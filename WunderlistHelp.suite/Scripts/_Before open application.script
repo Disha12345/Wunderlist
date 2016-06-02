@@ -1,0 +1,3 @@
+﻿DoubleClick "Wunderlist icon"
+Click "Window/maximise button"
+WaitFor 3.6, "User3v"

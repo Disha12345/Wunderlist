@@ -1,0 +1,6 @@
+﻿2016-05-31 11:39:45.045 +0100	START		Running _Test1Create To-do.script
+2016-05-31 11:39:46.046 +0100	click	image0001	at (983, 703)	2	on__test1create_to_do	_Test1Create To-do.script
+2016-05-31 11:39:47.047 +0100	typetext		variable To-do[return]	3	on__test1create_to_do	_Test1Create To-do.script
+2016-05-31 11:39:50.050 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(379,164), ImageRectangle:(333,159,426,170), Language:"English", SearcRectangle:(To do list top left,To do list bottom right), Text:"variable To-do", TextPlatform:"Generic OCR")	found at (379, 164)	4	on__test1create_to_do	_Test1Create To-do.script
+2016-05-31 11:39:50.050 +0100	EndTestCase		(Duration:"4.669", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 11:39:45 +0100", Successes:"1", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-05-31 11:39:50.050 +0100	SUCCESS		Execution Time 0:00:05 _Test1Create To-do.script

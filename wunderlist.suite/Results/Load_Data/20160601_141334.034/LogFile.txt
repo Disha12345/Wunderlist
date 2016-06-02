@@ -1,0 +1,8 @@
+﻿2016-06-01 14:13:34.034 +0100	START		Running Load_Data.script
+2016-06-01 14:13:34.034 +0100	click	Lists/Createlist	at (58, 705)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:13:36.036 +0100	click	Lists/ListName	at (427, 169)	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:13:37.037 +0100	typetext		Twinkle	6	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:13:38.038 +0100	click	Save	at (641, 373)	7	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:14:11.011 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	8	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-01 14:14:11.011 +0100	EndTestCase		(Duration:"37.403", Errors:"1", Exceptions:"1", StartTime:"2016-06-01 14:13:34 +0100", Successes:"0", TestCase:"Load_Data.script", Warnings:"0")
+2016-06-01 14:14:11.011 +0100	ABORTED		Execution Time 0:00:37 Load_Data.script

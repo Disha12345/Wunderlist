@@ -1,0 +1,9 @@
+﻿Try
+	DoubleClick "Wunderlist Icon"
+Catch exception
+//Typetext escape key
+
+Click "Window/CloseButton"
+DoubleClick "Wunderlist Icon"
+end try
+

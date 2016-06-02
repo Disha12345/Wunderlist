@@ -1,0 +1,7 @@
+﻿//completed todos
+if imagefound ("Tickbox")
+	log "completed todos shown"
+else
+	Click  "Todos/show complete todos"
+	waitfor 8.0,"Tickbox"
+end if

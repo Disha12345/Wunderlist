@@ -1,0 +1,8 @@
+﻿2016-05-31 12:30:28.028 +0100	START		Running Create_list.script
+2016-05-31 12:30:29.029 +0100	click	image0001/Createlist	at (58, 705)	3	on_create_list	Create_list.script
+2016-05-31 12:30:30.030 +0100	click	image0001/ListName	at (427, 170)	4	on_create_list	Create_list.script
+2016-05-31 12:30:30.030 +0100	typetext			5	on_create_list	Create_list.script
+2016-05-31 12:30:31.031 +0100	click	image0001/Save	at (641, 373)	6	on_create_list	Create_list.script
+2016-05-31 12:30:31.031 +0100	Exception		Image Property List did not contain "ImageName" property	7	on_create_list	Create_list.script
+2016-05-31 12:30:31.031 +0100	EndTestCase		(Duration:"2.819", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 12:30:28 +0100", Successes:"0", TestCase:"Create_list.script", Warnings:"0")
+2016-05-31 12:30:32.032 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:03 Create_list.script

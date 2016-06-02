@@ -1,0 +1,3 @@
+﻿2016-06-01 14:08:16.016 +0100	START		Running Load_Data.script
+2016-06-01 14:10:02.002 +0100	EndTestCase		(Duration:"105.732", Errors:"1", Exceptions:"0", StartTime:"2016-06-01 14:08:16 +0100", Successes:"0", TestCase:"Load_Data.script", Warnings:"0")
+2016-06-01 14:10:02.002 +0100	ABORTED		Execution Time 0:01:46 Load_Data.script

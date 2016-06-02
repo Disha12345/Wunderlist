@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="_Test5 Create Todo sync.script" package="wunderlist.suite" timestamp="2016-06-01 12:42:26.026 +0100"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2016-06-01 12:42:26.026 +0100"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="_Test5 Create Todo sync.script" assertions="1" successes="0" errors="1" time="31.597">
+  </testcase>
+ </testsuite>
+</testsuites>

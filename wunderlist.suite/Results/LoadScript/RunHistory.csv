@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-01 13:24:22.022 +0100,"Failure",0:00:00,1,0,0,"20160601_132422.022/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'load_data'",0
+2016-06-01 13:25:05.005 +0100,"Failure",0:00:00,1,0,0,"20160601_132505.005/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'load_data'",0
+2016-06-01 13:25:26.026 +0100,"Failure",0:00:00,1,0,0,"20160601_132526.026/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'load_data'",0
+2016-06-01 13:25:31.031 +0100,"Failure",0:00:00,1,0,0,"20160601_132531.031/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'load_data'",0
+2016-06-01 13:28:15.015 +0100,"Success",0:00:00,0,0,0,"20160601_132815.015/LogFile.txt","","",1

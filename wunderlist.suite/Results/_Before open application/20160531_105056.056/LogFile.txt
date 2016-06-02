@@ -1,0 +1,4 @@
+﻿2016-05-31 10:50:56.056 +0100	START		Running _Before open application.script
+2016-05-31 10:51:14.014 +0100	Exception	Wunderlist icon	No Image Found On Screen: "Wunderlist icon"	1	on__before_open_application	_Before open application.script
+2016-05-31 10:51:14.014 +0100	EndTestCase		(Duration:"18.059", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 10:50:56 +0100", Successes:"0", TestCase:"_Before open application.script", Warnings:"0")
+2016-05-31 10:51:14.014 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Wunderlist icon" -- Execution Time 0:00:18 _Before open application.script

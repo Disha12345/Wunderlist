@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="_Test4 Completing Todos.script" package="wunderlist.suite" timestamp="2016-05-31 14:32:01.001 +0100"
+ tests="1" successes="1" errors="0" time="19.962000">
+  <properties>
+   <property name="RunDate" value="2016-05-31 14:32:01.001 +0100"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="_Test4 Completing Todos.script" assertions="1" successes="1" errors="0" time="19.946">
+  </testcase>
+ </testsuite>
+</testsuites>

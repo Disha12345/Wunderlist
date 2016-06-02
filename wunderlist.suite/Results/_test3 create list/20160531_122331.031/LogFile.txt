@@ -1,0 +1,3 @@
+﻿2016-05-31 12:23:31.031 +0100	START		Running _test3 create list.script
+2016-05-31 12:23:37.037 +0100	EndTestCase		(Duration:"5.815", Errors:"1", Exceptions:"0", StartTime:"2016-05-31 12:23:31 +0100", Successes:"0", TestCase:"_test3 create list.script", Warnings:"0")
+2016-05-31 12:23:37.037 +0100	ABORTED		Execution Time 0:00:06 _test3 create list.script

@@ -1,0 +1,7 @@
+﻿2016-05-31 14:05:10.010 +0100	START		Running Complete todo.script
+2016-05-31 14:05:11.011 +0100	everyimagelocation	unticked checkbox	found 3 images	2	on_complete_todo	Complete todo.script
+2016-05-31 14:05:11.011 +0100	readtext		(318,165)
+2016-05-31 14:05:11.011 +0100	readtext		(318,212)
+2016-05-31 14:05:11.011 +0100	readtext		(318,259)
+2016-05-31 14:05:11.011 +0100	EndTestCase		(Duration:"0.703", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 14:05:10 +0100", Successes:"1", TestCase:"Complete todo.script", Warnings:"0")
+2016-05-31 14:05:11.011 +0100	SUCCESS		Execution Time 0:00:01 Complete todo.script
